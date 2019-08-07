@@ -1,4 +1,5 @@
 {
   "name": "gaincoder/grouptool-info",
-  "description": "Info Bundle for Grouptool"
+  "description": "Info Bundle for Grouptool",
+  "type": "symfony-bundle"
 }
